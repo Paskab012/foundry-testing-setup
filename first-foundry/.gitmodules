@@ -6,3 +6,5 @@
 [submodule "first-foundry/lib/openzeppelin-contracts"]
 	path = first-foundry/lib/openzeppelin-contracts
 	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "lib/openzeppelin-contracts"]
+	branch = v4.8.1
